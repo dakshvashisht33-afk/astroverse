@@ -1,0 +1,15 @@
+.env
+.env.*
+!.env.example
+.agents/
+.codex/
+*.db
+*.tsbuildinfo
+__pycache__/
+*.py[cod]
+.venv/
+frontend/node_modules/
+frontend/.next/
+frontend/.vercel/
+frontend/next-env.d.ts
+frontend/.env.local
